@@ -19,19 +19,27 @@ improving deliverables and user experiences while ensuring that code is concise,
 In this code review, I will discuss the code that relates to three key computer science categories: Software Engineering and Design, 
 Algorithms and Data Structure, and Databases. I will analyze existing code for weaknesses, limitations, and vulnerabilities and explain 
 my plan for enhancements. During the code review, I will utilized the CS-499 Code Review Checklist.<br>
-## Code Review: (Post file here)<br>
+## Code Review:<br>
+(Post file here)<br>
 
 
 <br><br><br>Description: The Software Engineering and Design ... <br>
-## Software Engineering and Design: (Post file here)<br>
+## Software Engineering and Design: <br>
+(Post file here)<br>
+
+
+
+
 
 
 <br><br><br>Description: The Algorithms and Data Structures ... <br>
-## Algorithms and Data Structures: (Post file here)<br>
+## Algorithms and Data Structures:<br>
+(Post file here)<br>
 
 
 <br><br><br>Description: Databases ... <br>
-## Databases: (Post file here)<br>
+## Databases:<br>
+(Post file here)<br>
 
 
 
