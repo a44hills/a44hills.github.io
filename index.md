@@ -8,22 +8,29 @@ After the artifacts were selected, I made additional enhancments to the code, il
 <br><br>
 
 About Me:<br>
-My name is James Hill
-<br><br>
+My name is James Hill. 
+<br>
+<br>
 
 
-Description: The Code Review -<br>
+
+## Code Review:<br>
+### Description: The Code Review -<br>
 In the presentation, I will be conducting the code review on three different projects from previous courses that I have taken here at 
 Southern New Hampshire University. The purpose of the code review is a standard practice in the Software Development Life Cycle, for 
 improving deliverables and user experiences while ensuring that code is concise, well-commented, and ready for updates. 
 In this code review, I will discuss the code that relates to three key computer science categories: Software Engineering and Design, 
 Algorithms and Data Structure, and Databases. I will analyze existing code for weaknesses, limitations, and vulnerabilities and explain 
 my plan for enhancements. During the code review, I will utilized the CS-499 Code Review Checklist.<br>
-## Code Review:<br>
+<!-- ## Code Review:<br> -->
 (Post file here)<br>
+<br>
 
 
-<br><br><br>Description: The Software Engineering and Design - <br>
+
+
+## Software Engineering and Design: <br>
+### Description: The Software Engineering and Design - <br>
 The artifact that I used to meet the ePortfolio requirements, and to represent my growth in the areas of software design/engineering, is to use the Software Reverse Engineering Project 2 – Common Security Issues that may be identified through reverse engineering. The artifact is the final C++ file submitted, in which I had to reassemble the C++ file from the binary source code supplied in the course. Before reassembling the file, I was required to identify the blocks of assembly code and describe what the different blocks of code performed.
 
 After reassembling the binary code into a C++ file, I had to identify where multiple security vulnerabilities are present within the various methods in the C++ file. Within each method, comments were placed at the locations where the security vulnerabilities are located and described recommendations for how the vulnerabilities can be fixed. This artifact is provided from the CS-410 course taken in 22EW3.
@@ -66,15 +73,14 @@ The included zip file includes the following artifact
 	               mlp kloo		        jim hill
 	               mrh vplwk		sam smith<br>
 
-## Software Engineering and Design: <br>
+<!-- ## Software Engineering and Design: <br> -->
 (Post file here)<br>
 
 
 
 
-
-
-<br><br><br>Description: The Algorithms and Data Structures:
+## Algorithms and Data Structures:<br>
+### Description: The Algorithms and Data Structures:<br>
 Data Structure Analysis:
 
 Advantages of using data structures in software programs –
@@ -101,11 +107,14 @@ In the calculation for the best-case analysis, the lower bound of the execution 
 Conclusion:<br>
 For algorithms like Sort by merge, the sorting will perform O(nLogn) operations for all cases. For other sorting algorithms, they will present the worst and best cases. In the case of a Quicksort, the worst-case scenario occurs when the input is already sorted, and the best case will occur when the pivot elements always divide the table into two halves. When performing an Insert sorting algorithm, the worst case will occur when the data input is already sorted, but in reverse order, while the best case will occur when the data input is sorted in the order of the output.<br>
 
-## Algorithms and Data Structures:<br>
+<!-- ## Algorithms and Data Structures:<br> -->
 (Post file here)<br>
 
 
-<br><br><br>Description: Databases <br>
+
+
+## Databases:<br>
+### Description: Databases <br>
 Databases:<br>
 The artifact that I used to meet the ePortfolio requirements, and to represent my growth in the areas of databases, is the Client/Server Development – Project 2: Web Application Dashboard (Python Code). The project consists of a database and establishes successful CRUD routines in Python for MongoDB. In addition, a fully functional MongoDB dashboard was created, allowing the client, Grazioso Salvare, to interact with and visualize the database. This artifact is provided from the CS-340 course taken in 21EW1.
 
@@ -117,13 +126,14 @@ The skills that are illustrated and course outcome(s) these skills align to [CS-
 
 During the development of the new queries and the addition of the widgets, no major issues arose, until I tried to access MongoDB in the Apporto (Virtual Lab). After logging into the virtual lab, I found that the App Store no longer contained the applications necessary to access the MongoDB or the Linux virtual server. To access the Linux server the Client-Server application is required. It appears that the applications have been disabled and made unavailable since I have completed the course. At this point, the code that I am enhancing will contain the new software changes and will be debugged by using the code review process and verifying that the code does not contain visible code vulnerabilities.<br>
 
-## Databases:<br>
+<!-- ## Databases:<br> -->
 (Post file here)<br>
 
 
 
 
-<br><br><br>
+
+
 You can use the [editor on GitHub](https://github.com/a44hills/a44hills.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
