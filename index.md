@@ -1,13 +1,14 @@
 # Welcome to my ePortfolio! 
 <br><br>
-Introduction:<br>
+
+### Introduction:<br>
 This is my first ePortfolio. This is a work in progress, so please be patient - it will get better (over time)!
 The artifacts selected for my ePortfolio are to demonstrate my capabilities in software development. These artifacts
 were selected from previos software courses I took at Southern New Hampshire University. <br>
 After the artifacts were selected, I made additional enhancments to the code, illustrating ... 
 <br><br>
 
-About Me:<br>
+### About Me:<br>
 My name is James Hill. 
 <br>
 <br>
