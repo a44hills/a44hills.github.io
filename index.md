@@ -9,7 +9,7 @@ After the artifacts were selected, I made additional enhancments to the code, il
 <br><br>
 
 ### About Me:<br>
-My name is James Hill. 
+ 
 <br>
 <br>
 
