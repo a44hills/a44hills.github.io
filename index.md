@@ -3,13 +3,20 @@
 
 ### Introduction:<br>
 This is my first ePortfolio. This is a work in progress, so please be patient - it will get better (over time)!
-The artifacts selected for my ePortfolio are to demonstrate my capabilities in software development. These artifacts
-were selected from previos software courses I took at Southern New Hampshire University. <br>
-After the artifacts were selected, I made additional enhancments to the code, illustrating ... 
-<br><br>
+
+Within my ePortfolio, I am displaying artifacts, that I have selected to demonstrate some of my capabilities in software development, which include Software Design and Engineering, Algorithms and Data Structures, and Databases. The artifacts selected are from previous software courses I completed at Southern New Hampshire University. 
+
+After selecting the artifacts, I performed a code review of each artifact describing the current code status and structure, identifying security vulnerabilities and where enhancements will be made to address these issues. Enhancements to the artifacts were made, showcasing my abilities and talents in software development, algorithms/data structures, and databases.<br>
+<br>
+<br>
+
 
 ### About Me:<br>
- 
+I am a U.S. Navy veteran. Growing up in Denver, I am a die-hard fan of the Colorado Avalanche, Colorado Rockies, Denver Broncos, and Denver Nuggets. Not into the snow, so when I was Blessed and offered a job in Santa Clara Ca, I took it, and my wife, and I have lived here ever since! Living in the Sacramento area now, we have the best of both worlds – snow if we want to see it, and then run down to the ocean to warm up.
+
+I am attending Southern New Hampshire University and completing my undergraduate degree. My next step is already in the works, which is staying at SNHU and obtaining my Master's in IT with a concentration in Software Application Development.
+
+With my education, my plans are to transfer into a software development team, develop secure reliable applications, and resolve customer requirements. Long-term goals include leading development teams and possibly looking into management. This too is open and has the potential to change.<br>
 <br>
 <br>
 
