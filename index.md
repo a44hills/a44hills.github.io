@@ -1,7 +1,10 @@
-# Welcome to my ePortfolio! 
+# Welcome to my ePortfolio! #
 <br><br>
 
-### Introduction:<br>
+
+### Introduction: <br>
+
+
 This is my first ePortfolio. This is a work in progress, so please be patient - it will get better (over time)!
 
 Within my ePortfolio, I am displaying artifacts, that I have selected to demonstrate some of my capabilities in software development, which include Software Design and Engineering, Algorithms and Data Structures, and Databases. The artifacts selected are from previous software courses I completed at Southern New Hampshire University. 
@@ -9,7 +12,6 @@ Within my ePortfolio, I am displaying artifacts, that I have selected to demonst
 After selecting the artifacts, I performed a code review of each artifact describing the current code status and structure, identifying security vulnerabilities and where enhancements will be made to address these issues. Enhancements to the artifacts were made, showcasing my abilities and talents in software development, algorithms/data structures, and databases.<br>
 <br>
 <br>
-
 
 ### About Me:<br>
 I am a U.S. Navy veteran. Growing up in Denver, I am a die-hard fan of the Colorado Avalanche, Colorado Rockies, Denver Broncos, and Denver Nuggets. Not into the snow, so when I was Blessed and offered a job in Santa Clara Ca, I took it, and my wife, and I have lived here ever since! Living in the Sacramento area now, we have the best of both worlds – snow if we want to see it, and then run down to the ocean to warm up.
@@ -21,7 +23,6 @@ With my education, my plans are to transfer into a software development team, de
 <br>
 
 
-
 ## Code Review:<br>
 ### Description: The Code Review -<br>
 In the presentation, I will be conducting the code review on three different projects from previous courses that I have taken here at 
@@ -30,10 +31,10 @@ improving deliverables and user experiences while ensuring that code is concise,
 In this code review, I will discuss the code that relates to three key computer science categories: Software Engineering and Design, 
 Algorithms and Data Structure, and Databases. I will analyze existing code for weaknesses, limitations, and vulnerabilities and explain 
 my plan for enhancements. During the code review, I will utilized the CS-499 Code Review Checklist.<br>
-<!-- ## Code Review:<br> -->
-(Post file here)<br>
-<br>
 
+### [Code Review](https://youtu.be/vR5F8SCNP6M)  <br>
+<br>
+<br>
 
 
 
@@ -86,7 +87,6 @@ The included zip file includes the following artifact
 
 
 
-
 ## Algorithms and Data Structures:<br>
 ### Description: The Algorithms and Data Structures:<br>
 Data Structure Analysis:
@@ -120,8 +120,8 @@ For algorithms like Sort by merge, the sorting will perform O(nLogn) operations 
 
 
 
-
-## Databases:<br>
+## Databases:
+	<br>
 ### Description: Databases <br>
 Databases:<br>
 The artifact that I used to meet the ePortfolio requirements, and to represent my growth in the areas of databases, is the Client/Server Development – Project 2: Web Application Dashboard (Python Code). The project consists of a database and establishes successful CRUD routines in Python for MongoDB. In addition, a fully functional MongoDB dashboard was created, allowing the client, Grazioso Salvare, to interact with and visualize the database. This artifact is provided from the CS-340 course taken in 21EW1.
