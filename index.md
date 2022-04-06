@@ -26,7 +26,8 @@ With my education, my plans are to transfer into a software development team, de
 ## Enhancments:<br>
 ### Description: The Enhancements -<br>
 This document describes the enhancements that were made to the three artifacts that I selected to showcase my abilities in the areas
-of Software Engineering and Design, Algorithms and Data Structures, and Databases. The enhancements ...
+of Software Engineering and Design, Algorithms and Data Structures, and Databases. The enhancements made in the artifacts reflect improvements
+to the quality, addresses limitations or inconsistencies that were identified, and/or mitigate vulnerabilities.
 <br>
 <br>
 
