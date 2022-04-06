@@ -23,6 +23,14 @@ With my education, my plans are to transfer into a software development team, de
 <br>
 
 
+## Enhancments:<br>
+### Description: The Enhancements -<br>
+This document describes the enhancements that were made to the three artifacts that I selected to showcase my abilities in the areas
+of Software Engineering and Design, Algorithms and Data Structures, and Databases. The enhancements ...
+<br>
+<br>
+
+
 ## Code Review:<br>
 ### Description: The Code Review -<br>
 In the presentation, I will be conducting the code review on three different projects from previous courses that I have taken here at 
