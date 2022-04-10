@@ -93,7 +93,8 @@ The included zip file includes the following artifact
 
 <!-- ## Software Engineering and Design: <br> -->
 
-### [SWE Project 2](https://github.com/a44hills/CS499/CS499_SWE_Project2.cpp) <br>
+<!-- ### [SWE Project 2](https://github.com/a44hills/CS499/CS499_SWE_Project2.cpp) <br> -->
+ ### [SWE Project 2](https://github.com/a44hills/CS499/blob/main/CS499_SWE_Project2.cpp) <br>
 ### [SWE Project 2 Zip File](https://github.com/a44hills/CS499/CS499_SWE_Project2.zip) <br>
 <br>
 
