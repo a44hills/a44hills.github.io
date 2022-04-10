@@ -41,7 +41,7 @@ In this code review, I will discuss the code that relates to three key computer 
 Algorithms and Data Structure, and Databases. I will analyze existing code for weaknesses, limitations, and vulnerabilities and explain 
 my plan for enhancements. During the code review, I will utilized the CS-499 Code Review Checklist.<br>
 
-### [Code Review](https://youtu.be/vR5F8SCNP6M)  <br>
+### [Code Review - Redirected to my YouTube Video](https://youtu.be/vR5F8SCNP6M)  <br>
 <br>
 <br>
 
@@ -121,12 +121,14 @@ To determine the worst case, the upper limit of the execution time will be calcu
 
 For average-case analysis, all possible inputs are calculated to obtain the computation time. The results are then added and divided by the sum by the total number of inputs. This calculation is necessary to determine the distribution of cases. Again, using a linear search, and assuming that all the input cases are distributed in a uniform manner, the cases are added and divided by the sum by (n + 1).
 
-In the calculation for the best-case analysis, the lower bound of the execution time is calculated. This calculation is necessary for knowing which case will cause the execution of the minimum number of operations. When using a linear search, the best case will occur when the data is present at the first location. In this case, the number of operations used will be constant. Here, the best-case time complexity would be O(1). See Figure 3 and Figure 4.
+In the calculation for the best-case analysis, the lower bound of the execution time is calculated. This calculation is necessary for knowing which case will cause the execution of the minimum number of operations. When using a linear search, the best case will occur when the data is present at the first location. In this case, the number of operations used will be constant. Here, the best-case time complexity would be O(1). See Figure 1 and Figure 2.
 
 Conclusion:<br>
 For algorithms like Sort by merge, the sorting will perform O(nLogn) operations for all cases. For other sorting algorithms, they will present the worst and best cases. In the case of a Quicksort, the worst-case scenario occurs when the input is already sorted, and the best case will occur when the pivot elements always divide the table into two halves. When performing an Insert sorting algorithm, the worst case will occur when the data input is already sorted, but in reverse order, while the best case will occur when the data input is sorted in the order of the output.<br>
 
-<!-- ## Algorithms and Data Structures:<br> -->
+### [Figure 1: Big O Complexity Chart](https://miro.medium.com/max/1200/1*j8fUQjaUlmrQEN_udU0_TQ.jpeg) <br> 
+### [Figure 2: Common Data Structure Operations and Array Sorting Algorithms](https://rubydoobiedoo.files.wordpress.com/2016/09/region-capture-2.png) <br>
+
 
 ### [BinarySearchTree.cpp](https://github.com/a44hills/CS499/blob/main/BinarySearchTree.cpp) <br>
 ### [HashTable.cpp](https://github.com/a44hills/CS499/blob/main/HashTable.cpp) <br>
@@ -150,7 +152,6 @@ The skills that are illustrated and course outcome(s) these skills align to [CS-
 
 During the development of the new queries and the addition of the widgets, no major issues arose, until I tried to access MongoDB in the Apporto (Virtual Lab). After logging into the virtual lab, I found that the App Store no longer contained the applications necessary to access the MongoDB or the Linux virtual server. To access the Linux server the Client-Server application is required. It appears that the applications have been disabled and made unavailable since I have completed the course. At this point, the code that I am enhancing will contain the new software changes and will be debugged by using the code review process and verifying that the code does not contain visible code vulnerabilities.<br>
 
-<!-- ## Databases:<br> -->
 
 ### [Python CRUD File](https://github.com/a44hills/CS499/blob/main/CS340_Project_1.py) <br>
 ### [MongoDB Dashboard](https://github.com/a44hills/CS499/blob/main/ProjectTwoDashboard.ipynb) <br>
