@@ -128,7 +128,13 @@ Conclusion:<br>
 For algorithms like Sort by merge, the sorting will perform O(nLogn) operations for all cases. For other sorting algorithms, they will present the worst and best cases. In the case of a Quicksort, the worst-case scenario occurs when the input is already sorted, and the best case will occur when the pivot elements always divide the table into two halves. When performing an Insert sorting algorithm, the worst case will occur when the data input is already sorted, but in reverse order, while the best case will occur when the data input is sorted in the order of the output.<br>
 
 <!-- ## Algorithms and Data Structures:<br> -->
-(Post file here)<br>
+
+### [BinarySearchTree.cpp](https://a44hills/CS499/BinarySearchTree.cpp) <br>
+### [HashTable.cpp](https://a44hills/CS499/HashTable.cpp) <br>
+### [LinkedList.cpp](https://a44hills/CS499/LinkedList.cpp) <br>
+### [VectorSorting.cpp](https://a44hills/CS499/VectorSorting.cpp) <br>
+<!-- (Post file here)<br> -->
+<br>
 
 
 
@@ -147,6 +153,11 @@ The skills that are illustrated and course outcome(s) these skills align to [CS-
 During the development of the new queries and the addition of the widgets, no major issues arose, until I tried to access MongoDB in the Apporto (Virtual Lab). After logging into the virtual lab, I found that the App Store no longer contained the applications necessary to access the MongoDB or the Linux virtual server. To access the Linux server the Client-Server application is required. It appears that the applications have been disabled and made unavailable since I have completed the course. At this point, the code that I am enhancing will contain the new software changes and will be debugged by using the code review process and verifying that the code does not contain visible code vulnerabilities.<br>
 
 <!-- ## Databases:<br> -->
+
+### [Python CRUD File](https://a44hills/CS499/CS340_Project_1.py) <br>
+### [MongoDB Dashboard](https://a44hills/CS499/ProjectTwoDashboard.ipynb) <br>
+<!-- (Post file here)<br> -->
+<br>
 (Post file here)<br>
 
 
