@@ -128,10 +128,10 @@ For algorithms like Sort by merge, the sorting will perform O(nLogn) operations 
 
 <!-- ## Algorithms and Data Structures:<br> -->
 
-### [BinarySearchTree.cpp](https://github.com/a44hills/CS499/blob/main/CS499/BinarySearchTree.cpp) <br>
-### [HashTable.cpp](https://github.com/a44hills/CS499/blob/main/CS499/HashTable.cpp) <br>
-### [LinkedList.cpp](https://github.com/a44hills/CS499/blob/main/CS499/LinkedList.cpp) <br>
-### [VectorSorting.cpp](https://github.com/a44hills/CS499/blob/main/CS499/VectorSorting.cpp) <br>
+### [BinarySearchTree.cpp](https://github.com/a44hills/CS499/blob/main/BinarySearchTree.cpp) <br>
+### [HashTable.cpp](https://github.com/a44hills/CS499/blob/main/HashTable.cpp) <br>
+### [LinkedList.cpp](https://github.com/a44hills/CS499/blob/main/LinkedList.cpp) <br>
+### [VectorSorting.cpp](https://github.com/a44hills/CS499/blob/main/VectorSorting.cpp) <br>
 <br>
 
 
@@ -152,8 +152,8 @@ During the development of the new queries and the addition of the widgets, no ma
 
 <!-- ## Databases:<br> -->
 
-### [Python CRUD File](https://github.com/a44hills/CS499/blob/main/CS499/CS340_Project_1.py) <br>
-### [MongoDB Dashboard](https://github.com/a44hills/CS499/blob/main/CS499/ProjectTwoDashboard.ipynb) <br>
+### [Python CRUD File](https://github.com/a44hills/CS499/blob/main/CS340_Project_1.py) <br>
+### [MongoDB Dashboard](https://github.com/a44hills/CS499/blob/main/ProjectTwoDashboard.ipynb) <br>
 <br>
 
 
