@@ -95,7 +95,6 @@ The included zip file includes the following artifact
 
 ### [SWE Project 2](https://a44hills/CS499/CS499_SWE_Project2.cpp) <br>
 ### [SWE Project 2 Zip File](https://a44hills/CS499/CS499_SWE_Project2.zip) <br>
-<!-- (Post file here)<br> -->
 <br>
 
 
@@ -133,7 +132,6 @@ For algorithms like Sort by merge, the sorting will perform O(nLogn) operations 
 ### [HashTable.cpp](https://a44hills/CS499/HashTable.cpp) <br>
 ### [LinkedList.cpp](https://a44hills/CS499/LinkedList.cpp) <br>
 ### [VectorSorting.cpp](https://a44hills/CS499/VectorSorting.cpp) <br>
-<!-- (Post file here)<br> -->
 <br>
 
 
@@ -156,20 +154,18 @@ During the development of the new queries and the addition of the widgets, no ma
 
 ### [Python CRUD File](https://a44hills/CS499/CS340_Project_1.py) <br>
 ### [MongoDB Dashboard](https://a44hills/CS499/ProjectTwoDashboard.ipynb) <br>
-<!-- (Post file here)<br> -->
 <br>
-(Post file here)<br>
 
 
 
 
 
+<!---
 
 You can use the [editor on GitHub](https://github.com/a44hills/a44hills.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<!---
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
