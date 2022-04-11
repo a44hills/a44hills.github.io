@@ -3,11 +3,7 @@
 
 
 ### Introduction: <br>
-
-
-This is my first ePortfolio. This is a work in progress, so please be patient - it will get better (over time)!
-
-Within my ePortfolio, I am displaying artifacts, that I have selected to demonstrate some of my capabilities in software development, which include Software Design and Engineering, Algorithms and Data Structures, and Databases. The artifacts selected are from previous software courses I completed at Southern New Hampshire University. 
+Within my ePortfolio, displayed are artifacts that I have selected that demonstrate some of my capabilities in software development. Areas highlighted include Software Design and Engineering, Algorithms and Data Structures, and Databases. The artifacts selected are from previous software courses I completed at Southern New Hampshire University. 
 
 After selecting the artifacts, I performed a code review of each artifact describing the current code status and structure, identifying security vulnerabilities and where enhancements will be made to address these issues. Enhancements to the artifacts were made, showcasing my abilities and talents in software development, algorithms/data structures, and databases.<br>
 <br>
@@ -19,6 +15,11 @@ I am a U.S. Navy veteran. Growing up in Denver, I am a die-hard fan of the Color
 I am attending Southern New Hampshire University and completing my undergraduate degree. My next step is already in the works, which is staying at SNHU and obtaining my Master's in IT with a concentration in Software Application Development.
 
 With my education, my plans are to transfer into a software development team, develop secure reliable applications, and resolve customer requirements. Long-term goals include leading development teams and possibly looking into management. This too is open and has the potential to change.<br>
+<br>
+<br>
+
+### Self Assessment:<br>
+
 <br>
 <br>
 
@@ -138,8 +139,7 @@ For algorithms like Sort by merge, the sorting will perform O(nLogn) operations 
 
 
 
-## Databases:
-	<br>
+## Databases: <br>
 ### Description: Databases <br>
 Databases:<br>
 The artifact that I used to meet the ePortfolio requirements, and to represent my growth in the areas of databases, is the Client/Server Development – Project 2: Web Application Dashboard (Python Code). The project consists of a database and establishes successful CRUD routines in Python for MongoDB. In addition, a fully functional MongoDB dashboard was created, allowing the client, Grazioso Salvare, to interact with and visualize the database. This artifact is provided from the CS-340 course taken in 21EW1.
