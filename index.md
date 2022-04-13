@@ -20,7 +20,7 @@ With my education, my plans are to transfer into a software development team, de
 
 
 <!-- ### [Self Assessment:](https://github.com/a44hills/CS499/blob/main/Self%20Assessment.docx) <br> -->
-### [Self Assessment:](https://github.com/a44hills/CS499/blob/main/Self Assessment.docx) <br>
+### [Download Self Assessment:](https://github.com/a44hills/CS499/blob/main/Self Assessment.docx) <br>
 
 <br>
 <br>
