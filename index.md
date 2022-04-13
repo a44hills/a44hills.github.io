@@ -16,10 +16,8 @@ I am attending Southern New Hampshire University and completing my undergraduate
 
 With my education, my plans are to transfer into a software development team, develop secure reliable applications, and resolve customer requirements. Long-term goals include leading development teams and possibly looking into management. This too is open and has the potential to change.<br>
 <br>
+I encourage you to download and read my Self-Assessment, for further information regarding my background and qualifications. <br>
 <br>
-
-
-<!-- ### [Self Assessment:](https://github.com/a44hills/CS499/blob/main/Self%20Assessment.docx) <br> -->
 ### [Download Self Assessment:](https://github.com/a44hills/CS499/blob/main/Self Assessment.docx) <br>
 
 <br>
