@@ -162,7 +162,8 @@ During the development of the new queries and the addition of the widgets, no ma
 
 
 
-You can use the [editor on GitHub](https://github.com/a44hills/a44hills.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/a44hills/a44hills.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files. <br>
+
 <!---
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
