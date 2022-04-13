@@ -18,7 +18,8 @@ With my education, my plans are to transfer into a software development team, de
 <br>
 I encourage you to download and read my Self-Assessment, for further information regarding my background and qualifications. <br>
 <br>
-### [Download Self Assessment:](https://github.com/a44hills/CS499/blob/main/Self Assessment.docx) <br>
+
+### [Download Self Assessment:](https://github.com/a44hills/CS499/blob/main/Self_Assessment.docx) <br>
 
 <br>
 <br>
