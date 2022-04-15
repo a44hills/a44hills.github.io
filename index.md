@@ -26,25 +26,32 @@ I encourage you to download and read my Self-Assessment, for further information
 
 ### Table of Contents: <br>
 
-[Code Enhancements](https://github.com/a44hills/a44hills.github.io/edit/main/index.md#code-enhancements) <br>
 
-[Code Review](https://github.com/a44hills/a44hills.github.io/edit/main/index.md#code-review) <br>
+[Code Enhancements](#code-enhancements) <br>
 
-[Software Engineering Design](https://github.com/a44hills/a44hills.github.io/edit/main/index.md#software-engineering-design) <br>
 
-[Algorithms and Data Structures](https://github.com/a44hills/a44hills.github.io/edit/main/index.md#algorithms-and-data-structures) <br>
+[Code Review](#code-review) <br>
 
-[Databases](https://github.com/a44hills/a44hills.github.io/edit/main/index.md#databases) <br>
+
+[Software Engineering and Design](#software-engineering-and-design-) <br>
+
+
+[Algorithms and Data Structures](#algorithms-and-data-structures) <br>
+
+
+[Databases](#databases-) <br>
+
 
 <br>
 
 
-## Code Enhancments:<br>
+## Code Enhancements:<br>
 ### Description: The Enhancements -<br>
 This document describes the enhancements that were made to the three artifacts that I selected to showcase my abilities in the areas
 of Software Engineering and Design, Algorithms and Data Structures, and Databases. The enhancements made in the artifacts reflect improvements
 to the quality, addresses limitations or inconsistencies that were identified, and/or mitigate vulnerabilities.
 <br>
+[Return to Table of Contents](#table-of-contents-) <br>
 <br>
 
 
@@ -58,7 +65,9 @@ Algorithms and Data Structure, and Databases. I will analyze existing code for w
 my plan for enhancements. During the code review, I will utilized the CS-499 Code Review Checklist.<br>
 
 ### [Code Review - Redirects to Code Review YouTube Video](https://youtu.be/vR5F8SCNP6M)  <br>
-<br>
+
+[Return to Table of Contents](#table-of-contents-) <br>
+
 <br>
 
 
@@ -111,6 +120,8 @@ The included zip file includes the following artifact
 
 ### [SWE Project 2](https://github.com/a44hills/CS499/blob/main/CS499_SWE_Project2.cpp) <br>
 ### [SWE Project 2 Zip File](https://github.com/a44hills/CS499/blob/main/CS499_SWE_Project2.zip) <br>
+
+[Return to Table of Contents](#table-of-contents-) <br>
 <br>
 
 
@@ -150,8 +161,9 @@ For algorithms like Sort by merge, the sorting will perform O(nLogn) operations 
 ### [HashTable.cpp](https://github.com/a44hills/CS499/blob/main/HashTable.cpp) <br>
 ### [LinkedList.cpp](https://github.com/a44hills/CS499/blob/main/LinkedList.cpp) <br>
 ### [VectorSorting.cpp](https://github.com/a44hills/CS499/blob/main/VectorSorting.cpp) <br>
-<br>
 
+[Return to Table of Contents](#table-of-contents-) <br>
+<br>
 
 
 ## Databases: <br>
@@ -170,8 +182,9 @@ During the development of the new queries and the addition of the widgets, no ma
 
 ### [Python CRUD File](https://github.com/a44hills/CS499/blob/main/CS340_Project_1.py) <br>
 ### [MongoDB Dashboard](https://github.com/a44hills/CS499/blob/main/ProjectTwoDashboard.ipynb) <br>
-<br>
 
+[Return to Table of Contents](#table-of-contents-) <br>
+<br>
 
 
 
