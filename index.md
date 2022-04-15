@@ -17,11 +17,25 @@ I am attending Southern New Hampshire University and completing my undergraduate
 With my education, my plans are to transfer into a software development team, develop secure reliable applications, and resolve customer requirements. Long-term goals include leading development teams and possibly looking into management. This too is open and has the potential to change.<br>
 <br>
 I encourage you to download and read my Self-Assessment, for further information regarding my background and qualifications. <br>
+(Microsoft Word .docx format)
 <br>
 
 ### [Download Self Assessment:](https://github.com/a44hills/CS499/blob/main/Self_Assessment.docx) <br>
 
 <br>
+
+### Table of Contents: <br>
+
+[Code Enhancements](https://github.com/a44hills/a44hills.github.io/edit/main/index.md#code-enhancements) <br>
+
+[Code Review](https://github.com/a44hills/a44hills.github.io/edit/main/index.md#code-review) <br>
+
+[Software Engineering Design](https://github.com/a44hills/a44hills.github.io/edit/main/index.md#software-engineering-design) <br>
+
+[Algorithms and Data Structures](https://github.com/a44hills/a44hills.github.io/edit/main/index.md#algorithms-and-data-structures) <br>
+
+[Databases](https://github.com/a44hills/a44hills.github.io/edit/main/index.md#databases) <br>
+
 <br>
 
 
