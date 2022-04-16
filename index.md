@@ -1,27 +1,6 @@
 # Welcome to my ePortfolio!
 <br><br>
 
-
-### Introduction: <br>
-Within my ePortfolio, displayed are artifacts that I have selected that demonstrate some of my capabilities in software development. Areas highlighted include Software Design and Engineering, Algorithms and Data Structures, and Databases. The artifacts selected are from previous software courses I completed at Southern New Hampshire University. 
-
-After selecting the artifacts, I performed a code review of each artifact describing the current code status and structure, identifying security vulnerabilities and where enhancements will be made to address these issues. Enhancements to the artifacts were made, showcasing my abilities and talents in software development, algorithms/data structures, and databases.<br>
-<br>
-<br>
-
-### About Me:<br>
-I am a U.S. Navy veteran. Growing up in Denver, I am a die-hard fan of the Colorado Avalanche, Colorado Rockies, Denver Broncos, and Denver Nuggets. Not into the snow, so when I was Blessed and offered a job in Santa Clara Ca, I took it, and my wife, and I have lived here ever since! Living in the Sacramento area now, we have the best of both worlds – snow if we want to see it, and then run down to the ocean to warm up.
-
-I am attending Southern New Hampshire University and completing my undergraduate degree. My next step is already in the works, which is staying at SNHU and obtaining my Master's in IT with a concentration in Software Application Development.
-
-With my education, my plans are to transfer into a software development team, develop secure reliable applications, and resolve customer requirements. Long-term goals include leading development teams and possibly looking into management. This too is open and has the potential to change.<br>
-<br>
-I encourage you to download and read my Self-Assessment, for further information regarding my background and qualifications. <br>
-(Microsoft Word .docx format)
-<br>
-
-### [Download Self Assessment:](https://github.com/a44hills/CS499/blob/main/Self_Assessment.docx) <br>
-
 <br>
 
 ### Table of Contents: <br>
@@ -42,6 +21,36 @@ I encourage you to download and read my Self-Assessment, for further information
 [Databases](#databases-) <br>
 
 
+<br>
+
+
+### Introduction: <br>
+Within my ePortfolio, displayed are artifacts that I have selected that demonstrate some of my capabilities in software development. Areas highlighted include Software Design and Engineering, Algorithms and Data Structures, and Databases. The artifacts selected are from previous software courses I completed at Southern New Hampshire University. 
+
+After selecting the artifacts, I performed a code review of each artifact describing the current code status and structure, identifying security vulnerabilities and where enhancements will be made to address these issues. Enhancements to the artifacts were made, showcasing my abilities and talents in software development, algorithms/data structures, and databases.<br>
+<br>
+<br>
+
+### About Me:<br>
+I am a U.S. Navy veteran. Growing up in Denver, I am a die-hard fan of the Colorado Avalanche, Colorado Rockies, Denver Broncos, and Denver Nuggets. Not into the snow, so when I was Blessed and offered a job in Santa Clara Ca, I took it, and my wife, and I have lived here ever since! Living in the Sacramento area now, we have the best of both worlds – snow if we want to see it, and then run down to the ocean to warm up.
+
+I am attending Southern New Hampshire University and completing my undergraduate degree. My next step is already in the works, which is staying at SNHU and obtaining my Master's in IT with a concentration in Software Application Development.
+
+With my education, my plans are to transfer into a software development team, develop secure reliable applications, and resolve customer requirements. Long-term goals include leading development teams and possibly looking into management. This too is open and has the potential to change.<br>
+<br>
+<br>
+
+### Self Assessment:<br>
+
+I encourage you to download and read my Self-Assessment, for further information regarding my background and qualifications. <br>
+(Microsoft Word .docx format)
+<br>
+
+### [Download a copy of my Self Assessment:](https://github.com/a44hills/CS499/blob/main/Self_Assessment.docx) <br>
+
+<br>
+
+[Return to Table of Contents](#table-of-contents-) <br>
 <br>
 
 
