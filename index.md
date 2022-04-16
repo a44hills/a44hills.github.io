@@ -38,7 +38,10 @@ I am attending Southern New Hampshire University and completing my undergraduate
 
 With my education, my plans are to transfer into a software development team, develop secure reliable applications, and resolve customer requirements. Long-term goals include leading development teams and possibly looking into management. This too is open and has the potential to change.<br>
 <br>
+
+[Return to Table of Contents](#table-of-contents-) <br>
 <br>
+
 
 ### Self Assessment:<br>
 
