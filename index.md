@@ -14,9 +14,11 @@ After selecting the artifacts, I performed a code review of each artifact descri
 
 [About Me](#about-me) <br>
 
-[Self Assessment](#code-enhancements) <br>
+[Self Assessment](#self-assessment) <br>
 
-[Code Enhancements](#self-assessment) <br>
+[Self Assessment - Download Word Document](#self-assessment-download) <br>
+
+[Code Enhancements](#code-enhancements) <br>
 
 [Code Review](#code-review) <br>
 
@@ -39,6 +41,14 @@ With my education, my plans are to transfer into a software development team, de
 <br>
 
 ### Self Assessment:<br>
+
+
+<br>
+
+[Return to Table of Contents](#table-of-contents-) <br>
+<br>
+
+### Self Assessment Download:<br>
 
 I encourage you to download and read my Self-Assessment, for further information regarding my background and qualifications. <br>
 (Microsoft Word .docx format)
