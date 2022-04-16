@@ -44,7 +44,9 @@ With my education, my plans are to transfer into a software development team, de
 
 
 ### Self Assessment:<br>
-
+<details>
+	<summary>Click to expand</summary>
+	
 In my self-assessment, I will reflect on the capstone and my experience in the Computer Science program at Southern New Hampshire University. Within the self-assessment, I will emphasize aspects of my ePortfolio that set me apart as well as illustrate my competence and use this as an opportunity to showcase my computer science knowledge, skills, and expertise. 
 
 Upon completion of my enlistment in the U.S. Navy, I obtained my associate degree in electronics technology at the Denver Institute of Technology. After receiving my AS degree, I was hired by Intel Corporation, in Santa Clara, CA., as an electronics technician. I progressed and was promoted to Product/System validation engineer. As a product/system validation engineer, I was responsible for developing validation test software, designed to test the new features that were being designed into the latest microprocessors and chipsets. These tests were designed to use the PCIe ports and stress the processor/chipset to locate circuit flaws and vulnerabilities. Within this position, I was tasked with designing and developing a multi-threaded web-based client/server application, designed to gather data, and graphically measure the performance of the random data generator, used in Floating Point Unit (FPU) validation testing, on focused areas of coverage when testing specific FPU opcodes.
@@ -80,7 +82,7 @@ Linux ● UNIX ● SCO UNIX ● Microsoft SQL7
 Familiar With: <br>
 JavaScript ● VB ● Perl ● vi ● HTML ● CSS ● Solaris ● MySQL ● Oracle7
 
-
+</details>
 
 <br>
 
