@@ -1,34 +1,32 @@
 # Welcome to my ePortfolio!
 <br><br>
 
-<br>
-
-### Table of Contents: <br>
-
-
-[Code Enhancements](#code-enhancements) <br>
-
-
-[Code Review](#code-review) <br>
-
-
-[Software Engineering and Design](#software-engineering-and-design-) <br>
-
-
-[Algorithms and Data Structures](#algorithms-and-data-structures) <br>
-
-
-[Databases](#databases-) <br>
-
-
-<br>
-
 
 ### Introduction: <br>
 Within my ePortfolio, displayed are artifacts that I have selected that demonstrate some of my capabilities in software development. Areas highlighted include Software Design and Engineering, Algorithms and Data Structures, and Databases. The artifacts selected are from previous software courses I completed at Southern New Hampshire University. 
 
 After selecting the artifacts, I performed a code review of each artifact describing the current code status and structure, identifying security vulnerabilities and where enhancements will be made to address these issues. Enhancements to the artifacts were made, showcasing my abilities and talents in software development, algorithms/data structures, and databases.<br>
 <br>
+
+<br>
+
+### Table of Contents: <br>
+
+[About Me](#about-me) <br>
+
+[Self Assessment](#code-enhancements) <br>
+
+[Code Enhancements](#self-assessment) <br>
+
+[Code Review](#code-review) <br>
+
+[Software Engineering and Design](#software-engineering-and-design-) <br>
+
+[Algorithms and Data Structures](#algorithms-and-data-structures) <br>
+
+[Databases](#databases-) <br>
+
+
 <br>
 
 ### About Me:<br>
