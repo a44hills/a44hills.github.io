@@ -44,7 +44,6 @@ With my education, my plans are to transfer into a software development team, de
 
 
 ### Self Assessment:<br>
-
 <details>
 	<summary>Click to expand</summary>
 
@@ -84,9 +83,7 @@ Linux ● UNIX ● SCO UNIX ● Microsoft SQL7 <br>
 
 Familiar With: <br>
 JavaScript ● VB ● Perl ● vi ● HTML ● CSS ● Solaris ● MySQL ● Oracle7 <br>
-
 </details>
-
 
 <br>
 
