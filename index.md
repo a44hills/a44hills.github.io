@@ -138,7 +138,7 @@ Algorithms and Data Structure, and Databases. I will analyze existing code for w
 my plan for enhancements. During the code review, I will utilized the CS-499 Code Review Checklist.<br>
 
 ### [Code Review - Redirects to Code Review YouTube Video](https://youtu.be/vR5F8SCNP6M)  <br>
-
+<br>
 </details>
 
 [Return to Table of Contents](#table-of-contents-) <br>
