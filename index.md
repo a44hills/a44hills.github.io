@@ -268,7 +268,11 @@ For algorithms like Sort by merge, the sorting will perform O(nLogn) operations 
 Databases:<br>
 The artifact that I used to meet the ePortfolio requirements, and to represent my growth in the areas of databases, is the Client/Server Development – Project 2: Web Application Dashboard (Python Code). The project consists of a database and establishes successful CRUD routines in Python for MongoDB. In addition, a fully functional MongoDB dashboard was created, allowing the client, Grazioso Salvare, to interact with and visualize the database. This artifact is provided from the CS-340 course taken in 21EW1. <br>
 <br>
-To enhance the project, I developed additional queries that will allow users to filter the database. In addition to the queries, interactive options through which users will activate the filters, and added a widget for dynamic presentations of retrieved data. The additional queries are used for displaying the additional different types of Birds and Cats the origination also works with. The queries will select – All Birds, Male Birds, Female Birds, All Cats, Male Cats, and Female Cats. See Figure 5: Additional Animals Pseudocode. This addition is incorporated into a revised ProjectTwoDashboard.ipynb Python file. In addition to the new queries, I also added a widget: a Date Picker Single (DatePickerSingle) located at: https://dash.plotly.com/dash-core-components/datepickersingle, which is applied to the main screen, along with the Grazioso Salvare logo. This additional widget provides a better user experience, along with a professional browser look. <br>
+To enhance the project, I developed additional queries that will allow users to filter the database. In addition to the queries, interactive options through which users will activate the filters, and added a widget for dynamic presentations of retrieved data. The additional queries are used for displaying the additional different types of Birds and Cats the origination also works with. The queries will select: <br>
+<br>
+	– All Birds, Male Birds, Female Birds, All Cats, Male Cats, and Female Cats. <br>
+<br>	
+This addition is incorporated into a revised ProjectTwoDashboard.ipynb Python file. In addition to the new queries, I also added a widget: a Date Picker Single (DatePickerSingle) located at: https://dash.plotly.com/dash-core-components/datepickersingle, which is applied to the main screen, along with the Grazioso Salvare logo. This additional widget provides a better user experience, along with a professional browser look. <br>
 <br>
 Further enhancements include the addition of driver code to the Pie Chart call-back procedures. The driver contains two additional dropdown boxes, where the user can select the type of animal in the first dropdown, and the sex of the animal in the second dropdown. By default, the pie chart will display Dogs/All. This code is still under development, with the driver code commented out in order to prevent code from interfering with the proper use of the main application. <br>
 <br>
@@ -284,9 +288,6 @@ During the development of the new queries and the addition of the widgets, no ma
 
 [Return to Table of Contents](#table-of-contents-) <br>
 <br>
-
-
-
 
 
 <!---
