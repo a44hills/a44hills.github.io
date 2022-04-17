@@ -12,21 +12,28 @@ After selecting the artifacts, I performed a code review of each artifact descri
 
 ### Table of Contents: <br>
 
-[About Me](#about-me) - A small introduction about me ... <br>
+[About Me](#about-me) <br> 
+- A small introduction about me ... <br>
 
-[Self Assessment](#self-assessment) - My professional  <br>
+[Self Assessment](#self-assessment) <br> 
+- My professional reflecting on my capstone and my experience in the CS program <br>
 
 [Self Assessment - Download Word Document](#self-assessment-download) <br>
 
-[Code Enhancements](#code-enhancements) - Description of the enhancements I made to improve security, and reduce vulnerabilities <br>
+[Code Enhancements](#code-enhancements) <br> 
+- Description of the enhancements I made to improve security, and reduce vulnerabilities <br>
 
-[Code Review](#code-review) - YouTube video, created reviewing the three artifacts on current functionality, code analysis, and enhancements to make <br>
+[Code Review](#code-review) <br> 
+- YouTube video, created reviewing the three artifacts on current functionality, code analysis, and enhancements to make <br>
 
-[Software Engineering and Design](#software-engineering-and-design-) - Description of enhancements made to the C++ file from my Reverse Engineering Course <br>
+[Software Engineering and Design](#software-engineering-and-design-) 
+- Description of enhancements made to the C++ file from my Reverse Engineering Course <br>
 
-[Algorithms and Data Structures](#algorithms-and-data-structures) - Discusses Best/Worst Algorithms, and the Advantages/Disadvantages of Data Structures <br>
+[Algorithms and Data Structures](#algorithms-and-data-structures) <br> 
+- Discusses Best/Worst Algorithms, and the Advantages/Disadvantages of Data Structures <br>
 
-[Databases](#databases-) - Description of enhancements made to the Python Dashboard and frontend support CRUD file, for the MongoDB <br>
+[Databases](#databases-) <br> 
+- Description of enhancements made to the Python Dashboard and frontend support CRUD file, for the MongoDB <br>
 
 
 <br>
