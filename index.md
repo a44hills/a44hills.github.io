@@ -136,13 +136,13 @@ improving deliverables and user experiences while ensuring that code is concise,
 In this code review, I will discuss the code that relates to three key computer science categories: Software Engineering and Design, 
 Algorithms and Data Structure, and Databases. I will analyze existing code for weaknesses, limitations, and vulnerabilities and explain 
 my plan for enhancements. During the code review, I will utilized the CS-499 Code Review Checklist.<br>
-
-	
-[Code Review - Redirects to Code Review YouTube Video](https://youtu.be/vR5F8SCNP6M)  <br>
-<br>
-	
 </details>
 
+
+### [Code Review - Redirects to Code Review YouTube Video](https://youtu.be/vR5F8SCNP6M)  <br>
+
+<br>
+	
 [Return to Table of Contents](#table-of-contents-) <br>
 
 <br>
