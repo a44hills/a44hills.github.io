@@ -113,7 +113,7 @@ I encourage you to download and read my Self-Assessment, for further information
 
 ## Code Enhancements:<br>
 	
-### Description: Identifying the vulnerabilities and enhancements made to improve security, and reduce software vulnerabilities in the 3 artifacts <br>
+### Description: Identified the vulnerabilities, and recommended enhancements to make to improve security, and reduce software vulnerabilities in the 3 artifacts <br>
 <details>
 	<summary>Click here to expand</summary>
 
