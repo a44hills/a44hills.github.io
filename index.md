@@ -64,7 +64,7 @@ With my prior knowledge and the benefit of actual software development, I was ab
 Artifacts selected for the ePortfolio demonstrate my skills and strengths in the areas of Algorithms and Data Structures, Databases, Security, and Software Engineering Development. The artifact selected for Algorithms and Data Structures will showcase my knowledge in creating algorithms to display a step-by-step procedure to perform calculations, data processing, and computerized analysis. Four different data structures are included in the algorithms and data structures artifact selection – a Binary Search Tree, Hash Table, Link List, and Vector Sorting C++ files. In the selection of these four data structures, I discuss the relevance of each and the importance of being able to identify based on the project, the best data structure to use. The artifact selected for Databases, will demonstrate my skills in developing quality SQL code to connect to MongoDB, Create, Read, Update, Delete (CRUD) data to/from a database Python support file. In addition, a custom Python web page is used to connect to the database and the CRUD support file. This Security and Software Engineering Development artifact selected will display my ability to reverse engineer C++ source code, identify the components within the assembly code, and then convert the assembly code back into a C++ source file. <br>
 <br>
 Security design was stressed during the CS-405, Secure Coding, and in the CS-410, Software Reverse Engineering courses. CS-405 focused on identifying common security vulnerabilities that are commonly found in the current software application. In this course, I learned different techniques for the development of secure code, utilizing secure programming practices and principles. In CS-410, I was able to use my knowledge in assembly language from working in BIOS development. In this course, I focused on the fundamentals of reverse engineering, disassembling the C++ source code into assembly code, analyzing the disassembled code noting the main code structure. Upon reassembling the assembly code back into a workable C++, locate and if/when possible, eliminate obsolete code by replacing it with safe secure, methods and instructions. Designing security into the project at the beginning, before code is written, is essential in preventing unauthorized access to sensitive and personal information. This was stressed in the courses I completed at SHNU, while they were also enforced in the software positions, I held before attending the university. My previous experience added additional value to my understanding and appreciation of the courses to the concepts and needs of secure programming. <br>
-<BR>
+<br>
 Selecting these artifacts from the undergraduate courses, I completed at SNHU, demonstrates the full range of my computer science talents and abilities. The ePortfolio contains each artifact, a description of the enhancements made to the artifact to identify and improve the security of each file, add additional features and functionality, and provide information on the purpose and decision-making process behind the methods used.
 I trust you will find the selection of artifacts to be informative, and professional. <br>
 <br>
@@ -156,34 +156,34 @@ my plan for enhancements. During the code review, I will utilized the CS-499 Cod
 	<summary>Click to expand</summary>
 
 <br>
-The artifact that I used to meet the ePortfolio requirements, and to represent my growth in the areas of software design/engineering, is to use the Software Reverse Engineering Project 2 – Common Security Issues that may be identified through reverse engineering. The artifact is the final C++ file submitted, in which I had to reassemble the C++ file from the binary source code supplied in the course. Before reassembling the file, I was required to identify the blocks of assembly code and describe what the different blocks of code performed.
-
-After reassembling the binary code into a C++ file, I had to identify where multiple security vulnerabilities are present within the various methods in the C++ file. Within each method, comments were placed at the locations where the security vulnerabilities are located and described recommendations for how the vulnerabilities can be fixed. This artifact is provided from the CS-410 course taken in 22EW3.
-
-The inclusion of this artifact into my ePortfolio will demonstrate my ability to read and comprehend both assembly code, and my ability to reverse engineer both assembly and C++ code. The selection of the project 2 C++ file demonstrates the various software vulnerabilities that I identified during the analysis of the reassembled code. Components within the source code involve minimizing the vulnerabilities by adding additional input code verification procedures, the addition of a login screen, allowing the user to create a unique user account, and encrypting the username/password file. These improvements will demonstrate the importance of security and reducing the ability of unauthorized users or malicious code to gain access to the system.
-
-This project is currently meeting the course objectives outlined to meet the enhancements in Module One. Updates to the project include the following:
-
+The artifact that I used to meet the ePortfolio requirements, and to represent my growth in the areas of software design/engineering, is to use the Software Reverse Engineering Project 2 – Common Security Issues that may be identified through reverse engineering. The artifact is the final C++ file submitted, in which I had to reassemble the C++ file from the binary source code supplied in the course. Before reassembling the file, I was required to identify the blocks of assembly code and describe what the different blocks of code performed. <br>
+<br>
+After reassembling the binary code into a C++ file, I had to identify where multiple security vulnerabilities are present within the various methods in the C++ file. Within each method, comments were placed at the locations where the security vulnerabilities are located and described recommendations for how the vulnerabilities can be fixed. This artifact is provided from the CS-410 course taken in 22EW3. <br>
+<br>
+The inclusion of this artifact into my ePortfolio will demonstrate my ability to read and comprehend both assembly code, and my ability to reverse engineer both assembly and C++ code. The selection of the project 2 C++ file demonstrates the various software vulnerabilities that I identified during the analysis of the reassembled code. Components within the source code involve minimizing the vulnerabilities by adding additional input code verification procedures, the addition of a login screen, allowing the user to create a unique user account, and encrypting the username/password file. These improvements will demonstrate the importance of security and reducing the ability of unauthorized users or malicious code to gain access to the system. <br>
+<br>
+This project is currently meeting the course objectives outlined to meet the enhancements in Module One. Updates to the project include the following: <br>
+<br>
         •	Login screen allowing the user to –
             o	Log into the application
             o	Create new user accounts
             o	Find password
+<br>
+Additional enhancements completed user input verification routines, username, and password verification, and checking for invalid characters. The remaining item is the encryption of the username/password, using a valid secure encryption algorithm as outlined in Figure 1. <br>
+<br>
+In the Software Design Engineering enhancement, the skills that are illustrated and course outcome(s) of these skills align to [CS-499-05] “Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources”. By enhancing the security and reducing the vulnerabilities in adding encryption to the username/password file and adding additional user input verification code to the enhanced Project 2 C++ file from CS-410, alignment in software development skills will be displayed. Name of the enhanced C++ file is CS499_SWE_Project2.cpp. <br>
+<br>
+During the process of performing the enhancements and making the required changes to improve the security of the application, I found that this is what I have been fortunate to do during my career working as both a software validation engineer, BIOS engineer, and software applications engineer. The process of adding new features, making revisions, or updating the application to resolve issues is part of the job of being a software developer. Depending upon the organization, a large part of the job as a junior or middle engineer will find themselves resolving issues and adding new features to existing applications. Again, depending upon the company, application design is usually performed by middle engineers, and senior engineers are usually looking at management or becoming team leads, and leading a team of engineers and technicians. <br>
+<br>
+For this project, I am using a simple encryption/decryption algorithm, in which I am adding 3 to the ASCII character to encrypt or subtracting 3 from the ASCII character to decrypt. This provides a sample demonstration of how encryption/decryption would be implemented to protect the username/password. In a fully functional application, the algorithms would be in a separate protected file. The type of algorithm would also be more sophisticated and follow the current Advanced Encryption Standard (AES) with 128-bit key or longer encryption guidelines. <br>
+<br>
+The challenges that I encountered while debugging the new enhancements, was in using the built-in cin method, where when it is called for the first time in the method, it would only accept the first character, and drop the rest of the username or password stream. To resolve this issue, I wrapped the cin method in the getline() method – getline(cin, username). Using this method, I was able to check the username and userpasswd using the VerifyUserNameInput() and VerifyPassWordInput() methods. <br>
+<br>
 
-Additional enhancements completed user input verification routines, username, and password verification, and checking for invalid characters. The remaining item is the encryption of the username/password, using a valid secure encryption algorithm as outlined in Figure 1. 
-
-In the Software Design Engineering enhancement, the skills that are illustrated and course outcome(s) of these skills align to [CS-499-05] “Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources”. By enhancing the security and reducing the vulnerabilities in adding encryption to the username/password file and adding additional user input verification code to the enhanced Project 2 C++ file from CS-410, alignment in software development skills will be displayed. Name of the enhanced C++ file is CS499_SWE_Project2.cpp.
-
-During the process of performing the enhancements and making the required changes to improve the security of the application, I found that this is what I have been fortunate to do during my career working as both a software validation engineer, BIOS engineer, and software applications engineer. The process of adding new features, making revisions, or updating the application to resolve issues is part of the job of being a software developer. Depending upon the organization, a large part of the job as a junior or middle engineer will find themselves resolving issues and adding new features to existing applications. Again, depending upon the company, application design is usually performed by middle engineers, and senior engineers are usually looking at management or becoming team leads, and leading a team of engineers and technicians. 
-
-For this project, I am using a simple encryption/decryption algorithm, in which I am adding 3 to the ASCII character to encrypt or subtracting 3 from the ASCII character to decrypt. This provides a sample demonstration of how encryption/decryption would be implemented to protect the username/password. In a fully functional application, the algorithms would be in a separate protected file. The type of algorithm would also be more sophisticated and follow the current Advanced Encryption Standard (AES) with 128-bit key or longer encryption guidelines.
-
-The challenges that I encountered while debugging the new enhancements, was in using the built-in cin method, where when it is called for the first time in the method, it would only accept the first character, and drop the rest of the username or password stream. To resolve this issue, I wrapped the cin method in the getline() method – getline(cin, username). Using this method, I was able to check the username and userpasswd using the VerifyUserNameInput() and VerifyPassWordInput() methods. 
-
-
-Software design/engineering Zip file:
-
-The included zip file includes the following artifact
-
+Software design/engineering Zip file: <br>
+<br>
+The included zip file includes the following artifact <br>
+<br>
         •	CS499_SWE_Project2.cpp file
     
             o	Contains the enhanced Project 2 C++ code
@@ -198,10 +198,10 @@ The included zip file includes the following artifact
 	               mlp kloo		        jim hill
 	               mrh vplwk		sam smith<br>
 
+</details>
+
 ### [SWE Project 2](https://github.com/a44hills/CS499/blob/main/CS499_SWE_Project2.cpp) <br>
 ### [SWE Project 2 Zip File](https://github.com/a44hills/CS499/blob/main/CS499_SWE_Project2.zip) <br>
-
-</details>
 
 [Return to Table of Contents](#table-of-contents-) <br>
 
