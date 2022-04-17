@@ -15,15 +15,15 @@ After selecting the artifacts, I performed a code review of each artifact descri
 [About Me](#about-me) <br> 
 - A small introduction about me ... <br>
 
-[Self Assessment](#self-assessment) <br> 
-- My professional self-assessment reflecting on my capstone and my experience in the CS program <br>
+[Self Assessment](#self-assessment-highlights-my-accomplishments-skills-reflection-on-my-capstone-project-and-my-experience-in-the-cs-program-) <br> 
+- My self-assessment reflecting on my capstone and my experience in the CS program <br>
 
 [Self Assessment - Download Word Document](#self-assessment-download) <br>
 
 [Code Enhancements](#code-enhancements) <br> 
-- Description of the enhancements I made to improve security, and reduce vulnerabilities <br>
+- Description of the enhancements made to improve security, and reduce vulnerabilities <br>
 
-[Code Review](#code-review) <br> 
+[Code Review](#code-review-) <br> 
 - YouTube video, created reviewing the three artifacts on current functionality, code analysis, and enhancements to make <br>
 
 [Software Engineering and Design](#software-engineering-and-design-) 
@@ -50,7 +50,7 @@ With my education, my plans are to transfer into a software development team, de
 <br>
 
 
-### Self Assessment:<br>
+### Self Assessment: Highlights my accomplishments, skills, reflection on my capstone project, and my experience in the CS program <br>
 <details>
 	<summary>Click here to expand</summary>
 
@@ -113,7 +113,7 @@ I encourage you to download and read my Self-Assessment, for further information
 
 ## Code Enhancements:<br>
 	
-### Description: The Enhancements - <br>
+### Description: Identifying the vulnerabilities and enhancements made to improve security, and reduce software vulnerabilities in the 3 artifacts <br>
 <details>
 	<summary>Click here to expand</summary>
 
@@ -130,9 +130,9 @@ to the quality, addresses limitations or inconsistencies that were identified, a
 <br>
 
 
-## Code Review:<br>
+## Code Review: <br>
 	
-### Description: The Code Review - <br>
+### Description: YouTube code review video, reviewing the three artifacts on the current functionality, code analysis, and enhancements to make <br>
 <details>
 	<summary>Click here to expand</summary>
 
@@ -157,7 +157,7 @@ my plan for enhancements. During the code review, I will utilized the CS-499 Cod
 
 
 ## Software Engineering and Design: <br>
-### Description: The Software Engineering and Design - <br>
+### Description: Enhancements made to resolve security issues, and reduce vulnerabilities to the C++ file from my Reverse Engineering Course <br>
 <details>
 	<summary>Click here to expand</summary>
 
@@ -218,7 +218,7 @@ The included zip file includes the following artifact <br>
 
 ## Algorithms and Data Structures:<br>
 	
-### Description: The Algorithms and Data Structures: <br>
+### Description: Discusses Best/Worst Algorithms, and the Advantages/Disadvantages of Data Structures <br>
 <details>
 	<summary>Click to expand</summary>
 
@@ -267,7 +267,7 @@ For algorithms like Sort by merge, the sorting will perform O(nLogn) operations 
 
 ## Databases: <br>
 
-### Description: Databases <br>
+### Description: Enhancements made to the Python Dashboard and frontend support CRUD file, for the MongoDB <br>
 <details>
 	<summary>Click to expand</summary>
 
