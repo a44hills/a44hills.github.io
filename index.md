@@ -164,9 +164,9 @@ The inclusion of this artifact into my ePortfolio will demonstrate my ability to
 This project is currently meeting the course objectives outlined to meet the enhancements in Module One. Updates to the project include the following: <br>
 <br>
 	•	Login screen allowing the user to – <br>
-            o	Log into the application <br>
-            o	Create new user accounts <br>
-            o	Find password <br>
+           &#9; o	Log into the application <br>
+           &#9; o	Create new user accounts <br>
+           &#9; o	Find password <br>
 <br>
 Additional enhancements completed user input verification routines, username, and password verification, and checking for invalid characters. The remaining item is the encryption of the username/password, using a valid secure encryption algorithm as outlined in Figure 1. <br>
 <br>
