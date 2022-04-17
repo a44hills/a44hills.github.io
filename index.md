@@ -12,21 +12,21 @@ After selecting the artifacts, I performed a code review of each artifact descri
 
 ### Table of Contents: <br>
 
-[About Me](#about-me) <br>
+[About Me](#about-me) - A small introduction about me ... <br>
 
-[Self Assessment](#self-assessment) <br>
+[Self Assessment](#self-assessment) - My professional  <br>
 
 [Self Assessment - Download Word Document](#self-assessment-download) <br>
 
-[Code Enhancements](#code-enhancements) <br>
+[Code Enhancements](#code-enhancements) - Description of the enhancements I made to improve security, and reduce vulnerabilities <br>
 
-[Code Review](#code-review) <br>
+[Code Review](#code-review) - YouTube video, created reviewing the three artifacts on current functionality, code analysis, and enhancements to make <br>
 
-[Software Engineering and Design](#software-engineering-and-design-) <br>
+[Software Engineering and Design](#software-engineering-and-design-) - Description of enhancements made to the C++ file from my Reverse Engineering Course <br>
 
-[Algorithms and Data Structures](#algorithms-and-data-structures) <br>
+[Algorithms and Data Structures](#algorithms-and-data-structures) - Discusses Best/Worst Algorithms, and the Advantages/Disadvantages of Data Structures <br>
 
-[Databases](#databases-) <br>
+[Databases](#databases-) - Description of enhancements made to the Python Dashboard and frontend support CRUD file, for the MongoDB <br>
 
 
 <br>
