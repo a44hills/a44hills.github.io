@@ -111,6 +111,7 @@ I encourage you to download and read my Self-Assessment, for further information
 <br>
 	
 ### Description: The Enhancements - <br>
+	
 This document describes the enhancements that were made to the three artifacts that I selected to showcase my abilities in the areas
 of Software Engineering and Design, Algorithms and Data Structures, and Databases. The enhancements made in the artifacts reflect improvements
 to the quality, addresses limitations or inconsistencies that were identified, and/or mitigate vulnerabilities.<br>
