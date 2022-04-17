@@ -44,6 +44,7 @@ With my education, my plans are to transfer into a software development team, de
 
 
 ### Self Assessment:<br>
+
 <details>
 	<summary>Click to expand</summary>
 	
@@ -107,16 +108,31 @@ I encourage you to download and read my Self-Assessment, for further information
 
 
 ## Code Enhancements:<br>
+
+<details>
+	<summary>Click to expand</summary>
+	
+<br>
+
 ### Description: The Enhancements -<br>
 This document describes the enhancements that were made to the three artifacts that I selected to showcase my abilities in the areas
 of Software Engineering and Design, Algorithms and Data Structures, and Databases. The enhancements made in the artifacts reflect improvements
-to the quality, addresses limitations or inconsistencies that were identified, and/or mitigate vulnerabilities.
+to the quality, addresses limitations or inconsistencies that were identified, and/or mitigate vulnerabilities.<br>
+	
+</details>
+
 <br>
 [Return to Table of Contents](#table-of-contents-) <br>
 <br>
 
 
 ## Code Review:<br>
+
+<details>
+	<summary>Click to expand</summary>
+	
+<br>
+	
 ### Description: The Code Review -<br>
 In the presentation, I will be conducting the code review on three different projects from previous courses that I have taken here at 
 Southern New Hampshire University. The purpose of the code review is a standard practice in the Software Development Life Cycle, for 
@@ -127,6 +143,8 @@ my plan for enhancements. During the code review, I will utilized the CS-499 Cod
 
 ### [Code Review - Redirects to Code Review YouTube Video](https://youtu.be/vR5F8SCNP6M)  <br>
 
+</details>
+
 [Return to Table of Contents](#table-of-contents-) <br>
 
 <br>
@@ -134,6 +152,12 @@ my plan for enhancements. During the code review, I will utilized the CS-499 Cod
 
 
 ## Software Engineering and Design: <br>
+
+<details>
+	<summary>Click to expand</summary>
+	
+<br>
+
 ### Description: The Software Engineering and Design - <br>
 The artifact that I used to meet the ePortfolio requirements, and to represent my growth in the areas of software design/engineering, is to use the Software Reverse Engineering Project 2 – Common Security Issues that may be identified through reverse engineering. The artifact is the final C++ file submitted, in which I had to reassemble the C++ file from the binary source code supplied in the course. Before reassembling the file, I was required to identify the blocks of assembly code and describe what the different blocks of code performed.
 
@@ -177,16 +201,23 @@ The included zip file includes the following artifact
 	               mlp kloo		        jim hill
 	               mrh vplwk		sam smith<br>
 
-<!-- ## Software Engineering and Design: <br> -->
-
 ### [SWE Project 2](https://github.com/a44hills/CS499/blob/main/CS499_SWE_Project2.cpp) <br>
 ### [SWE Project 2 Zip File](https://github.com/a44hills/CS499/blob/main/CS499_SWE_Project2.zip) <br>
+	
+</details>
 
 [Return to Table of Contents](#table-of-contents-) <br>
+
 <br>
 
 
 ## Algorithms and Data Structures:<br>
+
+<details>
+	<summary>Click to expand</summary>
+	
+<br>
+	
 ### Description: The Algorithms and Data Structures:<br>
 Data Structure Analysis:
 
@@ -223,11 +254,19 @@ For algorithms like Sort by merge, the sorting will perform O(nLogn) operations 
 ### [LinkedList.cpp](https://github.com/a44hills/CS499/blob/main/LinkedList.cpp) <br>
 ### [VectorSorting.cpp](https://github.com/a44hills/CS499/blob/main/VectorSorting.cpp) <br>
 
+</details>
+	
 [Return to Table of Contents](#table-of-contents-) <br>
 <br>
 
 
 ## Databases: <br>
+
+<details>
+	<summary>Click to expand</summary>
+	
+<br>
+
 ### Description: Databases <br>
 Databases:<br>
 The artifact that I used to meet the ePortfolio requirements, and to represent my growth in the areas of databases, is the Client/Server Development – Project 2: Web Application Dashboard (Python Code). The project consists of a database and establishes successful CRUD routines in Python for MongoDB. In addition, a fully functional MongoDB dashboard was created, allowing the client, Grazioso Salvare, to interact with and visualize the database. This artifact is provided from the CS-340 course taken in 21EW1.
@@ -244,6 +283,8 @@ During the development of the new queries and the addition of the widgets, no ma
 ### [Python CRUD File](https://github.com/a44hills/CS499/blob/main/CS340_Project_1.py) <br>
 ### [MongoDB Dashboard](https://github.com/a44hills/CS499/blob/main/ProjectTwoDashboard.ipynb) <br>
 
+</details>
+	
 [Return to Table of Contents](#table-of-contents-) <br>
 <br>
 
