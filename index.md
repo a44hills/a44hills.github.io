@@ -183,6 +183,9 @@ Software design/engineering Zip file: <br>
 <br>
 The included zip file includes the following artifact <br>
 <br>
+	
+	```
+	
         • CS499_SWE_Project2.cpp file <br>
 <br>
             o	Contains the enhanced Project 2 C++ code <br>
@@ -192,10 +195,13 @@ The included zip file includes the following artifact <br>
         • Database.txt file <br>
 <br>
             o	Contains sample usernames and passwords after encryption. Subtracting 3 from the ASCII value reveals the user/password: <br>
-	               yhud kloo		vera hill <br>
-	               wld kloo		        tia hill <br>
-	               mlp kloo		        jim hill <br>
-	               mrh vplwk		sam smith <br>
+	               yhud kloo            vera hill <br>
+	               wld kloo             tia hill <br>
+	               mlp kloo             jim hill <br>
+	               mrh vplwk            sam smith <br>
+	
+	```
+	
 <br>
 </details>
 
