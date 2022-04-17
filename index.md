@@ -16,7 +16,7 @@ After selecting the artifacts, I performed a code review of each artifact descri
 - A small introduction about me ... <br>
 
 [Self Assessment](#self-assessment) <br> 
-- My professional reflecting on my capstone and my experience in the CS program <br>
+- My professional self-assessment reflecting on my capstone and my experience in the CS program <br>
 
 [Self Assessment - Download Word Document](#self-assessment-download) <br>
 
@@ -52,7 +52,7 @@ With my education, my plans are to transfer into a software development team, de
 
 ### Self Assessment:<br>
 <details>
-	<summary>Click to expand</summary>
+	<summary>Click here to expand</summary>
 
 <br>
 
@@ -115,7 +115,7 @@ I encourage you to download and read my Self-Assessment, for further information
 	
 ### Description: The Enhancements - <br>
 <details>
-	<summary>Click to expand</summary>
+	<summary>Click here to expand</summary>
 
 <br>
 	
@@ -134,7 +134,7 @@ to the quality, addresses limitations or inconsistencies that were identified, a
 	
 ### Description: The Code Review - <br>
 <details>
-	<summary>Click to expand</summary>
+	<summary>Click here to expand</summary>
 
 <br>
 In the presentation, I will be conducting the code review on three different projects from previous courses that I have taken here at 
@@ -159,7 +159,7 @@ my plan for enhancements. During the code review, I will utilized the CS-499 Cod
 ## Software Engineering and Design: <br>
 ### Description: The Software Engineering and Design - <br>
 <details>
-	<summary>Click to expand</summary>
+	<summary>Click here to expand</summary>
 
 <br>
 The artifact that I used to meet the ePortfolio requirements, and to represent my growth in the areas of software design/engineering, is to use the Software Reverse Engineering Project 2 – Common Security Issues that may be identified through reverse engineering. The artifact is the final C++ file submitted, in which I had to reassemble the C++ file from the binary source code supplied in the course. Before reassembling the file, I was required to identify the blocks of assembly code and describe what the different blocks of code performed. <br>
