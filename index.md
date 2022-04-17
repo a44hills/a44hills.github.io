@@ -78,7 +78,7 @@ UEFI Bios Development ● Semiconductor production QA ● System Validation
 Internal and External Customer Support ● Software Development Life Cycle <br>
 <br>
 Technical Proficiencies: <br>
-C# ● C/C++ ● Java ● Python ● SQL  ●  x86 Assembly Language ● Windows 7/8/10  
+C# ● C/C++ ● Java ● Python ● SQL  ●  x86 Assembly Language ● Windows 7/8/10 <br> 
 Linux ● UNIX ● SCO UNIX ● Microsoft SQL7 <br>
 <br>
 Familiar With: <br>
@@ -183,20 +183,20 @@ Software design/engineering Zip file: <br>
 <br>
 The included zip file includes the following artifact <br>
 <br>
-        •	CS499_SWE_Project2.cpp file
-    
-            o	Contains the enhanced Project 2 C++ code
-        
-        •	CS499_SWE_Project.exe
-    
-        •	Database.txt file
-    
-            o	Contains sample usernames and passwords after encryption. Subtracting 3 from the ASCII value reveals the user/password:
-	               yhud kloo		vera hill
-	               wld kloo		        tia hill
-	               mlp kloo		        jim hill
-	               mrh vplwk		sam smith<br>
-
+        • CS499_SWE_Project2.cpp file <br>
+<br>
+            o	Contains the enhanced Project 2 C++ code <br>
+<br>
+        • CS499_SWE_Project.exe <br>
+<br>
+        • Database.txt file <br>
+<br>
+            o	Contains sample usernames and passwords after encryption. Subtracting 3 from the ASCII value reveals the user/password: <br>
+	               yhud kloo		vera hill <br>
+	               wld kloo		        tia hill <br>
+	               mlp kloo		        jim hill <br>
+	               mrh vplwk		sam smith <br>
+<br>
 </details>
 
 ### [SWE Project 2](https://github.com/a44hills/CS499/blob/main/CS499_SWE_Project2.cpp) 
