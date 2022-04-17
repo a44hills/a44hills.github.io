@@ -150,7 +150,6 @@ my plan for enhancements. During the code review, I will utilized the CS-499 Cod
 
 
 ## Software Engineering and Design: <br>
-
 ### Description: The Software Engineering and Design - <br>
 <details>
 	<summary>Click to expand</summary>
@@ -200,7 +199,7 @@ The included zip file includes the following artifact <br>
 
 </details>
 
-### [SWE Project 2](https://github.com/a44hills/CS499/blob/main/CS499_SWE_Project2.cpp) <br>
+### [SWE Project 2](https://github.com/a44hills/CS499/blob/main/CS499_SWE_Project2.cpp) 
 ### [SWE Project 2 Zip File](https://github.com/a44hills/CS499/blob/main/CS499_SWE_Project2.zip) <br>
 
 [Return to Table of Contents](#table-of-contents-) <br>
