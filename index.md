@@ -105,12 +105,12 @@ I encourage you to download and read my Self-Assessment, for further information
 
 
 ## Code Enhancements:<br>
+	
+### Description: The Enhancements - <br>
 <details>
 	<summary>Click to expand</summary>
 
 <br>
-	
-### Description: The Enhancements - <br>
 	
 This document describes the enhancements that were made to the three artifacts that I selected to showcase my abilities in the areas
 of Software Engineering and Design, Algorithms and Data Structures, and Databases. The enhancements made in the artifacts reflect improvements
@@ -124,12 +124,12 @@ to the quality, addresses limitations or inconsistencies that were identified, a
 
 
 ## Code Review:<br>
+	
+### Description: The Code Review - <br>
 <details>
 	<summary>Click to expand</summary>
 
 <br>
-	
-### Description: The Code Review - <br>
 In the presentation, I will be conducting the code review on three different projects from previous courses that I have taken here at 
 Southern New Hampshire University. The purpose of the code review is a standard practice in the Software Development Life Cycle, for 
 improving deliverables and user experiences while ensuring that code is concise, well-commented, and ready for updates. 
@@ -148,12 +148,12 @@ my plan for enhancements. During the code review, I will utilized the CS-499 Cod
 
 
 ## Software Engineering and Design: <br>
+
+### Description: The Software Engineering and Design - <br>
 <details>
 	<summary>Click to expand</summary>
 
 <br>
-
-### Description: The Software Engineering and Design - <br>
 The artifact that I used to meet the ePortfolio requirements, and to represent my growth in the areas of software design/engineering, is to use the Software Reverse Engineering Project 2 – Common Security Issues that may be identified through reverse engineering. The artifact is the final C++ file submitted, in which I had to reassemble the C++ file from the binary source code supplied in the course. Before reassembling the file, I was required to identify the blocks of assembly code and describe what the different blocks of code performed.
 
 After reassembling the binary code into a C++ file, I had to identify where multiple security vulnerabilities are present within the various methods in the C++ file. Within each method, comments were placed at the locations where the security vulnerabilities are located and described recommendations for how the vulnerabilities can be fixed. This artifact is provided from the CS-410 course taken in 22EW3.
@@ -207,12 +207,12 @@ The included zip file includes the following artifact
 
 
 ## Algorithms and Data Structures:<br>
+	
+### Description: The Algorithms and Data Structures: <br>
 <details>
 	<summary>Click to expand</summary>
 
 <br>
-	
-### Description: The Algorithms and Data Structures: <br>
 Data Structure Analysis:
 
 Advantages of using data structures in software programs –
@@ -255,12 +255,12 @@ For algorithms like Sort by merge, the sorting will perform O(nLogn) operations 
 
 
 ## Databases: <br>
+
+### Description: Databases <br>
 <details>
 	<summary>Click to expand</summary>
 
 <br>
-
-### Description: Databases <br>
 Databases:<br>
 The artifact that I used to meet the ePortfolio requirements, and to represent my growth in the areas of databases, is the Client/Server Development – Project 2: Web Application Dashboard (Python Code). The project consists of a database and establishes successful CRUD routines in Python for MongoDB. In addition, a fully functional MongoDB dashboard was created, allowing the client, Grazioso Salvare, to interact with and visualize the database. This artifact is provided from the CS-340 course taken in 21EW1.
 
