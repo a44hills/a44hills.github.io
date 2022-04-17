@@ -47,7 +47,7 @@ With my education, my plans are to transfer into a software development team, de
 
 <details>
 	<summary>Click to expand</summary>
-	
+
 <br>
 
 In my self-assessment, I will reflect on the capstone and my experience in the Computer Science program at Southern New Hampshire University. Within the self-assessment, I will emphasize aspects of my ePortfolio that set me apart as well as illustrate my competence and use this as an opportunity to showcase my computer science knowledge, skills, and expertise. <br>
@@ -111,14 +111,14 @@ I encourage you to download and read my Self-Assessment, for further information
 
 <details>
 	<summary>Click to expand</summary>
-	
+
 <br>
 
 ### Description: The Enhancements -<br>
 This document describes the enhancements that were made to the three artifacts that I selected to showcase my abilities in the areas
 of Software Engineering and Design, Algorithms and Data Structures, and Databases. The enhancements made in the artifacts reflect improvements
 to the quality, addresses limitations or inconsistencies that were identified, and/or mitigate vulnerabilities.<br>
-	
+
 </details>
 
 <br>
@@ -130,7 +130,7 @@ to the quality, addresses limitations or inconsistencies that were identified, a
 
 <details>
 	<summary>Click to expand</summary>
-	
+
 <br>
 	
 ### Description: The Code Review -<br>
@@ -155,7 +155,7 @@ my plan for enhancements. During the code review, I will utilized the CS-499 Cod
 
 <details>
 	<summary>Click to expand</summary>
-	
+
 <br>
 
 ### Description: The Software Engineering and Design - <br>
@@ -203,7 +203,7 @@ The included zip file includes the following artifact
 
 ### [SWE Project 2](https://github.com/a44hills/CS499/blob/main/CS499_SWE_Project2.cpp) <br>
 ### [SWE Project 2 Zip File](https://github.com/a44hills/CS499/blob/main/CS499_SWE_Project2.zip) <br>
-	
+
 </details>
 
 [Return to Table of Contents](#table-of-contents-) <br>
@@ -215,7 +215,7 @@ The included zip file includes the following artifact
 
 <details>
 	<summary>Click to expand</summary>
-	
+
 <br>
 	
 ### Description: The Algorithms and Data Structures:<br>
@@ -264,7 +264,7 @@ For algorithms like Sort by merge, the sorting will perform O(nLogn) operations 
 
 <details>
 	<summary>Click to expand</summary>
-	
+
 <br>
 
 ### Description: Databases <br>
