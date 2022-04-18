@@ -43,7 +43,7 @@ I am a U.S. Navy veteran. Growing up in Denver, I am a die-hard fan of the Color
 
 I am attending Southern New Hampshire University and completing my undergraduate degree. My next step is already in the works, which is staying at SNHU and obtaining my Master's in IT with a concentration in Software Application Development.
 
-With my education, my plans are to transfer into a software development team, develop secure reliable applications, and resolve customer requirements. Long-term goals include leading development teams and possibly looking into management. This too is open and has the potential to change.<br>
+With my education, I plan to transfer into a software development team, develop secure reliable applications, and resolve customer requirements. Long-term goals include leading development teams and possibly looking into management. This too is open and has the potential to change.<br>
 <br>
 
 [Return to Table of Contents](#table-of-contents-) <br>
@@ -121,7 +121,7 @@ I encourage you to download and read my Self-Assessment, for further information
 	
 This document describes the enhancements that were made to the three artifacts that I selected to showcase my abilities in the areas
 of Software Engineering and Design, Algorithms and Data Structures, and Databases. The enhancements made in the artifacts reflect improvements
-to the quality, addresses limitations or inconsistencies that were identified, and/or mitigate vulnerabilities.<br>
+to the quality, address limitations or inconsistencies that were identified, and/or mitigate vulnerabilities.<br>
 
 </details>
 
@@ -142,7 +142,7 @@ Southern New Hampshire University. The purpose of the code review is a standard 
 improving deliverables and user experiences while ensuring that code is concise, well-commented, and ready for updates. 
 In this code review, I will discuss the code that relates to three key computer science categories: Software Engineering and Design, 
 Algorithms and Data Structure, and Databases. I will analyze existing code for weaknesses, limitations, and vulnerabilities and explain 
-my plan for enhancements. During the code review, I will utilized the CS-499 Code Review Checklist.<br>
+my plan for enhancements. During the code review, I will utilize the CS-499 Code Review Checklist.<br>
 </details>
 
 
@@ -179,9 +179,9 @@ Additional enhancements completed user input verification routines, username, an
 <br>
 In the Software Design Engineering enhancement, the skills that are illustrated and course outcome(s) of these skills align to [CS-499-05] “Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources”. By enhancing the security and reducing the vulnerabilities in adding encryption to the username/password file and adding additional user input verification code to the enhanced Project 2 C++ file from CS-410, alignment in software development skills will be displayed. Name of the enhanced C++ file is CS499_SWE_Project2.cpp. <br>
 <br>
-During the process of performing the enhancements and making the required changes to improve the security of the application, I found that this is what I have been fortunate to do during my career working as both a software validation engineer, BIOS engineer, and software applications engineer. The process of adding new features, making revisions, or updating the application to resolve issues is part of the job of being a software developer. Depending upon the organization, a large part of the job as a junior or middle engineer will find themselves resolving issues and adding new features to existing applications. Again, depending upon the company, application design is usually performed by middle engineers, and senior engineers are usually looking at management or becoming team leads, and leading a team of engineers and technicians. <br>
+During the process of performing the enhancements and making the required changes to improve the security of the application, I found that this is what I have been fortunate to do during my career working as both a software validation engineer, BIOS engineer, and software applications engineer. The process of adding new features, making revisions, or updating the application to resolve issues is part of the job of a software developer. Depending upon the organization, a large part of the job as a junior or middle engineer will find themselves resolving issues and adding new features to existing applications. Again, depending upon the company, application design is usually performed by middle engineers, and senior engineers are usually looking at management or becoming team leads, and leading a team of engineers and technicians. <br>
 <br>
-For this project, I am using a simple encryption/decryption algorithm, in which I am adding 3 to the ASCII character to encrypt or subtracting 3 from the ASCII character to decrypt. This provides a sample demonstration of how encryption/decryption would be implemented to protect the username/password. In a fully functional application, the algorithms would be in a separate protected file. The type of algorithm would also be more sophisticated and follow the current Advanced Encryption Standard (AES) with 128-bit key or longer encryption guidelines. <br>
+For this project, I am using a simple encryption/decryption algorithm, in which I am adding 3 to the ASCII character to encrypt or subtracting 3 from the ASCII character to decrypt. This provides a sample demonstration of how encryption/decryption would be implemented to protect the username/password. In a fully functional application, the algorithms would be in a separate protected file. The type of algorithm would also be more sophisticated and follow the current Advanced Encryption Standard (AES) with a 128-bit key or longer encryption guidelines. <br>
 <br>
 The challenges that I encountered while debugging the new enhancements, was in using the built-in cin method, where when it is called for the first time in the method, it would only accept the first character, and drop the rest of the username or password stream. To resolve this issue, I wrapped the cin method in the getline() method – getline(cin, username). Using this method, I was able to check the username and userpasswd using the VerifyUserNameInput() and VerifyPassWordInput() methods. <br>
 <br>
@@ -242,7 +242,7 @@ In analyzing an Algorithm for Worst, Average, and Best cases, the factors involv
 <br>
 To determine the worst case, the upper limit of the execution time will be calculated. This is required to know what cases will cause the execution of the maximum number of operations. In the case of a linear search, where the data value is not present, the search method compares all elements of the array one by one. In this case, the temporal complexity of the worst-case search would be O(n). <br>
 <br>
-For average-case analysis, all possible inputs are calculated to obtain the computation time. The results are then added and divided by the sum by the total number of inputs. This calculation is necessary to determine the distribution of cases. Again, using a linear search, and assuming that all the input cases are distributed in a uniform manner, the cases are added and divided by the sum by (n + 1). <br>
+For average-case analysis, all possible inputs are calculated to obtain the computation time. The results are then added and divided by the sum by the total number of inputs. This calculation is necessary to determine the distribution of cases. Again, using a linear search, and assuming that all the input cases are distributed uniformly, the cases are added and divided by the sum by (n + 1). <br>
 <br>
 In the calculation for the best-case analysis, the lower bound of the execution time is calculated. This calculation is necessary for knowing which case will cause the execution of the minimum number of operations. When using a linear search, the best case will occur when the data is present at the first location. In this case, the number of operations used will be constant. Here, the best-case time complexity would be O(1). See Figure 1 and Figure 2. <br>
 <br>
@@ -281,7 +281,7 @@ To enhance the project, I developed additional queries that will allow users to 
 <br>	
 This addition is incorporated into a revised ProjectTwoDashboard.ipynb Python file. In addition to the new queries, I also added a widget: a Date Picker Single (DatePickerSingle) located at: https://dash.plotly.com/dash-core-components/datepickersingle, which is applied to the main screen, along with the Grazioso Salvare logo. This additional widget provides a better user experience, along with a professional browser look. <br>
 <br>
-Further enhancements include the addition of driver code to the Pie Chart call-back procedures. The driver contains two additional dropdown boxes, where the user can select the type of animal in the first dropdown, and the sex of the animal in the second dropdown. By default, the pie chart will display Dogs/All. This code is still under development, with the driver code commented out in order to prevent code from interfering with the proper use of the main application. <br>
+Further enhancements include the addition of driver code to the Pie Chart call-back procedures. The driver contains two additional dropdown boxes, where the user can select the type of animal in the first dropdown, and the sex of the animal in the second dropdown. By default, the pie chart will display Dogs/All. This code is still under development, with the driver code commented out to prevent code from interfering with the proper use of the main application. <br>
 <br>
 The skills that are illustrated and course outcome(s) these skills align to [CS-499-04] “Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals” in the Final Project Guidelines and Rubric. By enhancing the project, I am demonstrating how to apply database systems concepts and principles in developing client/server applications that interface client-side code with databases. <br>
 <br>
@@ -301,7 +301,7 @@ During the development of the new queries and the addition of the widgets, no ma
 
 You can use the [editor on GitHub](https://github.com/a44hills/a44hills.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files. <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages on your site, from the content in your Markdown files.
 
 ### Markdown
 
