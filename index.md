@@ -146,7 +146,11 @@ my plan for enhancements. During the code review, I will utilize the CS-499 Code
 </details>
 
 
-### [Code Review - Redirects to Code Review YouTube Video](https://youtu.be/vR5F8SCNP6M)  <br>
+### [Code Review - Redirects to Code Review YouTube Video](https://youtu.be/vR5F8SCNP6M)
+
+### [Original Code - Directory with original soucre code](https://github.com/a44hills/CS499/blob/main/OrigCode)
+
+### [Enhanced Code - Directory with enhanced source code](https://github.com/a44hills/CS499/tree/main/EnhancedCode)  <br>
 
 <br>
 	
